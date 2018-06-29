@@ -9,4 +9,3 @@ Before that I spent 4 years in Beijing University of Posts and Telecommunication
 
 Currently I’m doing CO-OP in Baidu, Inc as NLP intern.
 
-#######hello world
