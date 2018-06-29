@@ -7,15 +7,13 @@ permalink:           pretty
 title:               Zhe (Derek) Hu
 tagline:             '胡哲'
 color:               #75b5aa
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+description:         Derek Hu
+avatar:            '/assets/profile.jpg'
 paginate:            5
 
 # About/contact
-author:              Derek Hu
+author:              
   name:              Mark Otto
-  avatar:            '/assets/profile.jpg'
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
