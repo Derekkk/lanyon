@@ -13,8 +13,9 @@ baseurl:             ''
 paginate:            5
 
 # About/contact
-author:
+author:              Derek Hu
   name:              Mark Otto
+  avatar:            '/assets/profile.jpg'
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
