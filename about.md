@@ -2,11 +2,6 @@
 layout: page
 title: About
 ---
-/*
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-*/
 
 I am a master student in Computer Engineering in Northeaster University. My program focus on machine learning, natural language processing, deep learning and their applications.
 
