@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
-![@2x](/assets/profile.jpg)
 
 I am a master student in Computer Engineering in Northeaster University. My program focus on machine learning, natural language processing, deep learning and their applications.
 
