@@ -12,3 +12,7 @@ title: About
 
 ###### Currently I'm doing CO-OP in Baidu, Inc as NLP Engineer intern. Our group is building an intelligent customer service platform, and I focus on solving some NLP tasks including sentiment detection, paraphrase identification, sentence representation, transfer learning applications and so on.
 
+## Research Interest 
+* Deep Learning
+* Natural Language Processing
+* Statistical learning
