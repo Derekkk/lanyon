@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Biography
 ---
 
-![](/assets/pf.jpg){:width="20%"}
+<center>![](/assets/pf.jpg){:width="20%"}</center>
 
 
 ###### I am a master student in Computer Engineering in [Northeaster University](https://www.northeastern.edu/), and my concentration is machine learning, natural language processing and algorithms. I work with [Prof. Xue Lin](https://web.northeastern.edu/xuelin/) on deep learning applications.
