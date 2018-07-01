@@ -10,5 +10,5 @@ title: About
 
 ###### Before that I spent 4 years in Beijing University of Posts and Telecommunications, and received Bachelor degree in Communication Engineering.
 
-###### Currently I am doing CO-OP in Baidu, Inc as NLP intern. Our group is build an intelligent customer service platform, and I focus on solving some NLP tasks including sentiment detection, paraphrase identification, sentence representation, transfer learning applications and so on.
+###### Currently I'm doing CO-OP in Baidu, Inc as NLP Engineer intern. Our group is build an intelligent customer service platform, and I focus on solving some NLP tasks including sentiment detection, paraphrase identification, sentence representation, transfer learning applications and so on.
 
