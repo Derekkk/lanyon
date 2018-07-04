@@ -5,7 +5,7 @@ title: Blog
 
 Reading List:
 
-# Transfer Learning
+### Transfer Learning
 * Adversarial training models for semi-supervised text classification
 
 * Learned in translation: Contextualized word vectors
@@ -16,7 +16,7 @@ Reading List:
 
 * Adversarial Discriminative Domain Adaptation
 
-# NLU
+### NLU
 
 
 
